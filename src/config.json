@@ -1,0 +1,15 @@
+{
+    "global": {
+        "access_token": "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"
+    },
+    "pytorch": {
+        "start_date": "2016-08-13T05:26:41Z",
+        "end_date": "2022-08-01T00:00:00Z",
+        "latest_release": "1.12.0"
+    },
+    "tensorflow": {
+        "start_date": "2015-11-07T01:19:20Z",
+        "end_date": "2022-08-01T00:00:00Z",
+        "latest_release": "2.9.0"
+    }
+}
