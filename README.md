@@ -1,5 +1,4 @@
 # Deep Learning Communities
-This is the replication package for the paper xxx.
 
 ## Table of Contents
 - [Deep Learning Communities](#deep-learning-communities)
@@ -95,7 +94,7 @@ You can just follow the `./src/notebooks/results.ipynb` to get the results as it
 
 Because the crawled and processed data is too big, we provide the data from the [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10477123.svg)](https://doi.org/10.5281/zenodo.10477123), please download and unzip it in the `./data/` folder.
 
-The file structure is like this:
+The raw data file structure is like this:
 ```sh
 raw
 ├── commits
