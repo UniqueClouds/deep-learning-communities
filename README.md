@@ -10,6 +10,7 @@
     - [Data Preprocessing](#data-preprocessing)
     - [Data Formats](#data-formats)
   - [Results](#results)
+    - [We have also added the expanded time span results in external validity part:](#we-have-also-added-the-expanded-time-span-results-in-external-validity-part)
   - [Downloads](#downloads)
   - [Contact](#contact)
   - [License](#license)
@@ -90,6 +91,9 @@ The contribution table format for further analysis: `[login,commit_count,LOC,iss
 
 You can just follow the `./src/notebooks/results.ipynb` to get the results as it provides a detailed and executable procedure.
 
+### We have also added the expanded time span results in external validity part:
+see `./outputs/figures/expanded_time_span_result` folder
+
 ## Downloads
 
 Because the crawled and processed data is too big, we provide the data from the [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10477123.svg)](https://doi.org/10.5281/zenodo.10477123), please download and unzip it in the `./data/` folder.
@@ -142,6 +146,11 @@ raw
 
 ## Contact
 If you have any questions regarding this paper, please do not hesitate to contact us:
+
+Yunqi Chen, Zhejiang University, China, yunqichen@zju.edu.cn;Zhiyuan Wan, Zhejiang University,
+China, wanzhiyuan@zju.edu.cn; Yifei Zhuang, Zhejiang University, China, zhuangyf@zju.edu.cn; Ning Liu, City University
+of Hong Kong, Hong Kong, ninliu@cityu.edu.hk; David Lo, Singapore Management University, Singapore, davidlo@smu.
+edu.sg; Xiaohu Yang, Zhejiang University, China, yangxh@zju.edu.cn.
 
 ## License
 Apache License 2.0
